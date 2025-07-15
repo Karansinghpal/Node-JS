@@ -1,0 +1,18 @@
+Readme Through File.js Question	Answer
+What is JavaScript?	Scripting language to make websites dynamic.
+Difference: Java vs JS	Java: compiled, apps; JS: interpreted, web.
+Data types in JS	Primitive: String, Number, Boolean, Undefined, Null, BigInt, Symbol.
+undefined vs null	undefined: not set yet; null: empty value.
+What is hoisting?	JS moves declarations to the top of scope.
+var vs let vs const	var: function-scope, let/const: block-scope. const cannot change.
+
+🔄 Scope & Functions
+Question	Answer
+What is scope?	Area where variable can be accessed.
+Lexical scope	Function accesses variables where it’s written.
+Synchronous vs asynchronous	Sync: line by line; Async: doesn’t block.
+What is closure?	Function remembers outer variables.
+
+
+Karan Papa
+hii
