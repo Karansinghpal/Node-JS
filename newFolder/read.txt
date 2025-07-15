@@ -15,4 +15,4 @@ What is closure?	Function remembers outer variables.
 
 
 Karan Papa
-hii
+
