@@ -1,0 +1,12 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "Node-Js Basic To Advance",
+  "main": "NodeJs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Karan": "node NodeJs.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
