@@ -27,9 +27,7 @@ const fs = require('fs');
 
 
 
-
-
-
+// THis is how to make server and make one txt using server and log the request when u move to different routes then it will give you the log of that request in the txt file
 
 
 
